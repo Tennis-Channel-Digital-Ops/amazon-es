@@ -20,8 +20,10 @@ It fetches data from the CloudFront XMLTV feed and supports timezone selection.
 
 ```bash
 cd /opt/epg/amazon-es
-/usr/bin/python3 -m http.server 8111 --bind 0.0.0.0
+/usr/bin/python3 server.py
 ```
+
+`server.py` serves the static app and proxies `/feed.xml` from the CloudFront XMLTV feed (avoids browser CORS blocks).
 
 Systemd unit: `amazon-es.service`
 
@@ -41,3 +43,4 @@ Publish via DOPS Publisher Admin (`/publisher-admin`) and assign users in Auth A
 ## Files
 
 - `index.html` — the entire app
+- `server.py` — static file server + `/feed.xml` proxy

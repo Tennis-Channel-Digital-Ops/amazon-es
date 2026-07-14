@@ -116,7 +116,8 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            const EPG_XML_URL = 'https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/tcies_tennisono/TCSPAIN.xml';
+            // Relative so it works under DOPS path prefixes like /amazon-spain/
+            const EPG_XML_URL = 'feed.xml';
 
             const loadingEl = document.getElementById('loading');
             const errorEl = document.getElementById('error');
@@ -180,8 +181,10 @@
             }
 
             function parseXmlFeed(xmlString) {
+                // Strip external DOCTYPE — Chrome DOMParser rejects SYSTEM DTD refs
+                const cleaned = xmlString.replace(/<!DOCTYPE[^>]*>/i, '');
                 const parser = new DOMParser();
-                const xmlDoc = parser.parseFromString(xmlString, 'text/xml');
+                const xmlDoc = parser.parseFromString(cleaned, 'text/xml');
                 if (xmlDoc.getElementsByTagName('parsererror').length) {
                     throw new Error('Failed to parse EPG XML feed.');
                 }
@@ -189,14 +192,20 @@
                 const programmes = Array.from(xmlDoc.querySelectorAll('programme')).map((prog, index) => {
                     const startAttr = prog.getAttribute('start');
                     const stopAttr = prog.getAttribute('stop');
+                    const start = parseXmlDate(startAttr);
+                    const stop = parseXmlDate(stopAttr);
+                    if (Number.isNaN(start.getTime()) || Number.isNaN(stop.getTime())) {
+                        return null;
+                    }
                     const icons = Array.from(prog.querySelectorAll('icon'))
                         .map(node => node.getAttribute('src'))
                         .filter(Boolean);
 
                     return {
-                        id: startAttr || `prog-${index}`,
-                        start_time: parseXmlDate(startAttr).toISOString(),
-                        stop_time: parseXmlDate(stopAttr).toISOString(),
+                        // CSS-safe id — raw XMLTV start times break querySelector (:, ., +)
+                        id: `prog-${index}`,
+                        start_time: start.toISOString(),
+                        stop_time: stop.toISOString(),
                         title: prog.querySelector('title')?.textContent?.trim() || 'No Title',
                         sub_title: prog.querySelector('sub-title')?.textContent?.trim() || '',
                         description: prog.querySelector('desc')?.textContent?.trim() || '',
@@ -211,7 +220,7 @@
                         has_error: false,
                         icons: JSON.stringify(icons)
                     };
-                });
+                }).filter(Boolean);
 
                 return programmes;
             }
@@ -234,18 +243,17 @@
             }
 
             window.downloadImageForCard = function (programId) {
-                const images = document.querySelectorAll('.program-image-' + programId);
+                const images = document.querySelectorAll('.program-image-' + CSS.escape(programId));
                 let visibleImageSrc = null;
-
-                if (images.length > 0) {
-                    visibleImageSrc = images[0].src;
-                }
 
                 images.forEach(img => {
                     if (img.classList.contains('opacity-100')) {
                         visibleImageSrc = img.src;
                     }
                 });
+                if (!visibleImageSrc && images.length > 0) {
+                    visibleImageSrc = images[0].src;
+                }
 
                 if (visibleImageSrc) {
                     window.open(visibleImageSrc, '_blank');
@@ -431,12 +439,15 @@
             function handleCarouselClick(event) {
                 const button = event.target.closest('.carousel-btn');
                 if (!button) return;
+                event.preventDefault();
 
                 const programId = button.dataset.programId;
-                const direction = parseInt(button.dataset.direction);
+                const direction = parseInt(button.dataset.direction, 10);
+                const card = button.closest('.program-card');
+                if (!card) return;
 
-                const images = document.querySelectorAll(`.program-image-${programId}`);
-                const dots = document.querySelectorAll(`.carousel-dot-${programId}`);
+                const images = card.querySelectorAll(`.program-image-${CSS.escape(programId)}`);
+                const dots = card.querySelectorAll(`.carousel-dot-${CSS.escape(programId)}`);
                 if (images.length <= 1) return;
 
                 let currentIndex = -1;
