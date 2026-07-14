@@ -116,8 +116,10 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            // Relative so it works under DOPS path prefixes like /amazon-spain/
-            const EPG_XML_URL = 'feed.xml';
+            // Same-origin feed.xml:
+            // - DOPS/systemd: proxied live by server.py
+            // - GitHub Pages: static file refreshed by sync-feed workflow
+            const EPG_XML_URL = new URL('feed.xml', window.location.href).href;
 
             const loadingEl = document.getElementById('loading');
             const errorEl = document.getElementById('error');

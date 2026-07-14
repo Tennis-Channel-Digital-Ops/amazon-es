@@ -1,0 +1,42 @@
+name: Sync TC Spain EPG feed
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/sync-feed.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download CloudFront feed
+        run: |
+          curl -fsSL \
+            "https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/tcies_tennisono/TCSPAIN.xml" \
+            -o feed.xml.tmp
+          # Strip external DOCTYPE so browser DOMParser succeeds
+          sed -E 's/<!DOCTYPE[^>]*>//I' feed.xml.tmp > feed.xml
+          rm -f feed.xml.tmp
+          test -s feed.xml
+          head -c 120 feed.xml
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          if git diff --staged --quiet; then
+            echo "No feed changes"
+          else
+            git commit -m "chore: sync TC Spain EPG feed"
+            git push
+          fi

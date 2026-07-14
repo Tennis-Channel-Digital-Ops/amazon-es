@@ -14,7 +14,10 @@ It fetches data from the CloudFront XMLTV feed and supports timezone selection.
 
 ## Data source
 
-`https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/tcies_tennisono/TCSPAIN.xml`
+Upstream: `https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/tcies_tennisono/TCSPAIN.xml`
+
+- **DOPS / systemd (`server.py`)**: proxies that URL live at `feed.xml`
+- **GitHub Pages**: serves committed `feed.xml`, refreshed hourly by `.github/workflows/sync-feed.yml`
 
 ## Runtime
 
@@ -43,4 +46,6 @@ Publish via DOPS Publisher Admin (`/publisher-admin`) and assign users in Auth A
 ## Files
 
 - `index.html` — the entire app
-- `server.py` — static file server + `/feed.xml` proxy
+- `server.py` — static file server + live `/feed.xml` proxy
+- `feed.xml` — cached EPG for GitHub Pages
+- `.github/workflows/sync-feed.yml` — hourly feed refresh for Pages
