@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TC Spain Live Monitor</title>
+    <link rel="icon" type="image/svg+xml" href="https://www.svgrepo.com/show/35457/calendar-symbol.svg">
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Use Inter font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .carousel-btn-prev::before {
+            content: '\276E';
+        }
+
+        .carousel-btn-next::before {
+            content: '\276F';
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100 min-h-screen p-4 md:p-8">
+
+    <div class="max-w-4xl mx-auto bg-white rounded-lg shadow-xl p-6 md:p-8">
+        <header class="pb-6 border-b border-gray-200 mb-6 flex flex-col md:flex-row md:items-center md:justify-between">
+            <div>
+                <h1 class="text-3xl font-bold text-gray-900">TC Spain Live Monitor</h1>
+            </div>
+            <div class="mt-4 md:mt-0">
+                <label for="timezone-select" class="block text-sm font-medium text-gray-700 mb-1">Timezone:</label>
+                <select id="timezone-select"
+                    class="block w-full md:w-auto pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm rounded-md shadow-sm">
+                </select>
+            </div>
+        </header>
+
+        <div id="loading" class="flex flex-col items-center justify-center p-12">
+            <div class="loader"></div>
+            <p class="mt-4 text-lg font-medium text-gray-600">Fetching TC Spain live schedule...</p>
+        </div>
+
+        <div id="error" class="hidden p-6 bg-red-100 border border-red-300 rounded-lg">
+            <h3 class="text-xl font-bold text-red-800">Error Loading Data</h3>
+            <p id="error-message" class="mt-2 text-red-700"></p>
+        </div>
+
+        <main id="content" class="hidden">
+            <!-- Nav Tabs -->
+            <div class="mb-6">
+                <div class="border-b border-gray-200">
+                    <nav class="-mb-px flex space-x-8" aria-label="Tabs">
+                        <button
+                            class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm border-blue-500 text-blue-600"
+                            data-target="tab-current">
+                            Now Playing
+                        </button>
+                        <button
+                            class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300"
+                            data-target="tab-upcoming">
+                            Upcoming
+                        </button>
+                        <button
+                            class="tab-btn whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300"
+                            data-target="tab-past">
+                            Finished
+                        </button>
+                    </nav>
+                </div>
+            </div>
+
+            <!-- Tab Panels -->
+            <div id="tab-panels">
+                <div id="tab-current" class="tab-panel space-y-4"></div>
+                <div id="tab-upcoming" class="tab-panel hidden space-y-4"></div>
+                <div id="tab-past" class="tab-panel hidden space-y-4">
+                    <div class="mb-4 p-4 bg-gray-50 rounded-lg border">
+                        <label for="history-date-picker" class="block text-sm font-medium text-gray-700 mb-1">Select a
+                            day to review:</label>
+                        <input type="date" id="history-date-picker" name="history-date"
+                            class="block w-full md:w-auto p-2 border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500">
+                    </div>
+                    <div id="history-container" class="space-y-4">
+                        <p class="text-gray-500 p-4 text-center">Select a date to view past programs.</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const EPG_XML_URL = 'https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/tcies_tennisono/TCSPAIN.xml';
+
+            const loadingEl = document.getElementById('loading');
+            const errorEl = document.getElementById('error');
+            const errorMessageEl = document.getElementById('error-message');
+            const contentEl = document.getElementById('content');
+            const timezoneSelectEl = document.getElementById('timezone-select');
+
+            const currentContainer = document.getElementById('tab-current');
+            const upcomingContainer = document.getElementById('tab-upcoming');
+            const historyContainer = document.getElementById('history-container');
+            const historyDatePicker = document.getElementById('history-date-picker');
+
+            const tabButtons = document.querySelectorAll('.tab-btn');
+            const tabPanels = document.querySelectorAll('.tab-panel');
+
+            let allProgrammes = [];
+
+            function resetUI() {
+                loadingEl.classList.remove('hidden');
+                contentEl.classList.add('hidden');
+                errorEl.classList.add('hidden');
+                currentContainer.innerHTML = '';
+                upcomingContainer.innerHTML = '';
+                historyContainer.innerHTML = '<p class="text-gray-500 p-4 text-center">Select a date to view past programs.</p>';
+                historyDatePicker.value = '';
+
+                tabButtons.forEach((btn, index) => {
+                    if (index === 0) {
+                        btn.classList.add('border-blue-500', 'text-blue-600');
+                        btn.classList.remove('border-transparent', 'text-gray-500', 'hover:text-gray-700', 'hover:border-gray-300');
+                    } else {
+                        btn.classList.remove('border-blue-500', 'text-blue-600');
+                        btn.classList.add('border-transparent', 'text-gray-500', 'hover:text-gray-700', 'hover:border-gray-300');
+                    }
+                });
+                tabPanels.forEach((panel, index) => {
+                    panel.classList.toggle('hidden', index !== 0);
+                });
+            }
+
+            function setupTabs() {
+                tabButtons.forEach(button => {
+                    button.addEventListener('click', () => {
+                        tabButtons.forEach(btn => {
+                            btn.classList.remove('border-blue-500', 'text-blue-600');
+                            btn.classList.add('border-transparent', 'text-gray-500', 'hover:text-gray-700', 'hover:border-gray-300');
+                        });
+                        button.classList.add('border-blue-500', 'text-blue-600');
+                        button.classList.remove('border-transparent', 'text-gray-500', 'hover:text-gray-700', 'hover:border-gray-300');
+
+                        tabPanels.forEach(panel => panel.classList.add('hidden'));
+                        const targetPanelId = button.getAttribute('data-target');
+                        document.getElementById(targetPanelId).classList.remove('hidden');
+                    });
+                });
+            }
+
+            function parseXmlDate(value) {
+                if (!value) return new Date(NaN);
+                return new Date(value.replace(/([+-]\d{2})(\d{2})$/, '$1:$2'));
+            }
+
+            function parseXmlFeed(xmlString) {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlString, 'text/xml');
+                if (xmlDoc.getElementsByTagName('parsererror').length) {
+                    throw new Error('Failed to parse EPG XML feed.');
+                }
+
+                const programmes = Array.from(xmlDoc.querySelectorAll('programme')).map((prog, index) => {
+                    const startAttr = prog.getAttribute('start');
+                    const stopAttr = prog.getAttribute('stop');
+                    const icons = Array.from(prog.querySelectorAll('icon'))
+                        .map(node => node.getAttribute('src'))
+                        .filter(Boolean);
+
+                    return {
+                        id: startAttr || `prog-${index}`,
+                        start_time: parseXmlDate(startAttr).toISOString(),
+                        stop_time: parseXmlDate(stopAttr).toISOString(),
+                        title: prog.querySelector('title')?.textContent?.trim() || 'No Title',
+                        sub_title: prog.querySelector('sub-title')?.textContent?.trim() || '',
+                        description: prog.querySelector('desc')?.textContent?.trim() || '',
+                        category: prog.querySelector('category')?.textContent?.trim() || 'Sports',
+                        rating: prog.querySelector('rating value')?.textContent?.trim() || '',
+                        language: prog.querySelector('language')?.textContent?.trim() || '',
+                        episode_num: prog.querySelector('episode-num')?.textContent?.trim() || '',
+                        credits: '',
+                        previously_shown: prog.querySelector('previously-shown') ? 1 : 0,
+                        live: prog.querySelector('live') ? 1 : 0,
+                        premiere: 0,
+                        has_error: false,
+                        icons: JSON.stringify(icons)
+                    };
+                });
+
+                return programmes;
+            }
+
+            function getSelectedTimezoneAbbreviation() {
+                if (timezoneSelectEl && timezoneSelectEl.options && timezoneSelectEl.selectedIndex >= 0) {
+                    return timezoneSelectEl.options[timezoneSelectEl.selectedIndex].text;
+                }
+                const storedMode = sessionStorage.getItem('timezone') || 'America/New_York';
+                const timezones = { 'America/Los_Angeles': 'PST', 'America/New_York': 'EST', 'UTC': 'UTC', 'CET': 'CET' };
+                return timezones[storedMode] || 'EST';
+            }
+
+            function getSelectedTimezone() {
+                return sessionStorage.getItem('timezone') || 'America/New_York';
+            }
+
+            function getProgrammeDateString(isoTime) {
+                return new Date(isoTime).toLocaleDateString('en-CA', { timeZone: getSelectedTimezone() });
+            }
+
+            window.downloadImageForCard = function (programId) {
+                const images = document.querySelectorAll('.program-image-' + programId);
+                let visibleImageSrc = null;
+
+                if (images.length > 0) {
+                    visibleImageSrc = images[0].src;
+                }
+
+                images.forEach(img => {
+                    if (img.classList.contains('opacity-100')) {
+                        visibleImageSrc = img.src;
+                    }
+                });
+
+                if (visibleImageSrc) {
+                    window.open(visibleImageSrc, '_blank');
+                } else {
+                    alert('No image available to download.');
+                }
+            };
+
+            function createProgramCard(program) {
+                const {
+                    start_time, stop_time, title, sub_title, description, id, has_error
+                } = program;
+
+                const start = new Date(start_time);
+                const stop = new Date(stop_time);
+
+                let icons = [];
+                try { icons = JSON.parse(program.icons.replace(/'/g, '"')); } catch (e) { }
+
+                const placeholderImg = `https://placehold.co/320x180/e2e8f0/94a3b8?text=${encodeURIComponent(title)}`;
+                const defaultImageIndex = icons.length > 1 ? 1 : 0;
+
+                return `
+                   <div class="program-card bg-white border rounded-lg shadow-sm overflow-hidden flex flex-col md:flex-row ${has_error ? 'border-red-500 border-2' : 'border-gray-200'}">
+                       <div class="relative w-full md:w-48 lg:w-64 h-40 md:h-auto bg-gray-200 flex-shrink-0 flex flex-col">
+                           <div class="relative w-full h-full flex-grow">
+                               ${(icons.length > 0 ? icons : [null]).map((icon, index) => `
+                                   <img src="${icon || placeholderImg}" alt="${title}" class="program-image program-image-${id} w-full h-full object-cover absolute top-0 left-0 transition-opacity duration-300 ${index === defaultImageIndex ? 'opacity-100 z-10' : 'opacity-0 z-0'}" data-index="${index}" onerror="this.onerror=null; this.src='${placeholderImg}';">
+                               `).join('')}
+                               ${icons.length > 1 ? `
+                                   <button class="carousel-btn carousel-btn-prev absolute top-1/2 left-2 transform -translate-y-1/2 bg-black bg-opacity-50 text-white rounded-full w-8 h-8 flex items-center justify-center text-lg font-bold hover:bg-opacity-75 focus:outline-none z-20" data-program-id="${id}" data-direction="-1"></button>
+                                   <button class="carousel-btn carousel-btn-next absolute top-1/2 right-2 transform -translate-y-1/2 bg-black bg-opacity-50 text-white rounded-full w-8 h-8 flex items-center justify-center text-lg font-bold hover:bg-opacity-75 focus:outline-none z-20" data-program-id="${id}" data-direction="1"></button>
+                                   <div class="carousel-dots absolute bottom-2 left-1/2 transform -translate-x-1/2 flex space-x-2 z-20">
+                                       ${icons.map((_, index) => `<span class="carousel-dot carousel-dot-${id} w-2 h-2 rounded-full ${index === defaultImageIndex ? 'bg-white scale-125' : 'bg-white bg-opacity-50'} transition-all" data-index="${index}"></span>`).join('')}
+                                   </div>
+                               ` : ''}
+                           </div>
+                       </div>
+                       
+                       <div class="p-6 flex-1 flex flex-col bg-gray-50">
+                           <div class="flex-grow space-y-4">
+                               <div>
+                                   <span class="text-xs font-bold text-gray-500 uppercase tracking-widest block mb-1">Day of the Week</span>
+                                   <p class="text-sm font-semibold text-gray-900">${start.toLocaleDateString('en-US', { weekday: 'long', timeZone: getSelectedTimezone() })}</p>
+                               </div>
+                               
+                               <div>
+                                   <span class="text-xs font-bold text-gray-500 uppercase tracking-widest block mb-1">Title</span>
+                                   <h4 class="text-xl font-bold text-gray-900 leading-tight">${title}</h4>
+                               </div>
+
+                               ${sub_title ? `
+                               <div>
+                                   <span class="text-xs font-bold text-gray-500 uppercase tracking-widest block mb-1">Content</span>
+                                   <p class="text-md font-medium text-gray-800 leading-tight">${sub_title}</p>
+                               </div>
+                               ` : ''}
+
+                               ${description ? `
+                               <div>
+                                   <span class="text-xs font-bold text-gray-500 uppercase tracking-widest block mb-1">Synopsis</span>
+                                   <p class="text-sm text-gray-700 leading-relaxed">${description}</p>
+                               </div>
+                               ` : ''}
+                               
+                               <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-4 gap-y-3 mt-5 pt-4 border-t border-gray-200 text-sm">
+                                   <div class="flex items-start">
+                                       <strong class="w-24 flex-shrink-0 text-gray-800">Date:</strong>
+                                       <span class="text-gray-700">${start.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: getSelectedTimezone() })}</span>
+                                   </div>
+                                   <div class="flex items-start">
+                                       <strong class="w-24 flex-shrink-0 text-gray-800">Start Time:</strong>
+                                       <span class="text-gray-700">${start.toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true, timeZone: getSelectedTimezone() })} ${getSelectedTimezoneAbbreviation()}</span>
+                                   </div>
+                                   <div class="flex items-start">
+                                       <strong class="w-24 flex-shrink-0 text-gray-800">End Time:</strong>
+                                       <span class="text-gray-700">${stop.toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true, timeZone: getSelectedTimezone() })} ${getSelectedTimezoneAbbreviation()}</span>
+                                   </div>
+                                   <div class="flex items-start">
+                                       <strong class="w-24 flex-shrink-0 text-gray-800">Channel:</strong>
+                                       <span class="text-gray-700">Tennis Channel</span>
+                                   </div>
+                                   <div class="flex items-start">
+                                       <strong class="w-24 flex-shrink-0 text-gray-800">Station:</strong>
+                                       <span class="text-gray-700">Tennis Channel Spain</span>
+                                   </div>
+                                   <div class="flex items-start">
+                                       <strong class="w-24 flex-shrink-0 text-gray-800">Tag:</strong>
+                                       <span class="text-white bg-red-500 px-2 py-0.5 rounded text-xs font-bold leading-none tracking-wide mt-0.5">LIVE</span>
+                                   </div>
+                                   <div class="flex items-start">
+                                       <strong class="w-24 flex-shrink-0 text-gray-800">Genre:</strong>
+                                       <span class="text-emerald-800 bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded text-xs font-bold leading-none tracking-wide mt-0.5">Tennis</span>
+                                   </div>
+                               </div>
+                           </div>
+                           
+                           <div class="mt-6 pt-4 border-t border-gray-200 flex justify-end">
+                               <button onclick="downloadImageForCard('${id}')" class="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2.5 rounded shadow-md text-sm font-semibold transition-all ease-in-out duration-200 flex items-center">
+                                   <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                                   Download Image
+                               </button>
+                           </div>
+                       </div>
+                   </div>
+                `;
+            }
+
+            async function fetchProgrammes() {
+                const response = await fetch(EPG_XML_URL);
+                if (!response.ok) throw new Error(`Failed to fetch EPG feed: ${response.statusText}`);
+                const xmlText = await response.text();
+                return parseXmlFeed(xmlText);
+            }
+
+            async function loadData() {
+                resetUI();
+
+                try {
+                    allProgrammes = await fetchProgrammes();
+                    const now = new Date();
+
+                    const current = allProgrammes.filter(p => {
+                        const start = new Date(p.start_time);
+                        const stop = new Date(p.stop_time);
+                        return start <= now && stop > now;
+                    });
+                    const upcoming = allProgrammes.filter(p => new Date(p.start_time) > now);
+
+                    const liveCurrent = current.filter(p => p.live === 1);
+                    const liveUpcoming = upcoming.filter(p => p.live === 1);
+
+                    currentContainer.innerHTML = liveCurrent.length > 0
+                        ? liveCurrent.map(p => createProgramCard(p)).join('')
+                        : '<p class="text-gray-500 p-4 text-center">Nothing is currently live on TC Spain.</p>';
+
+                    upcomingContainer.innerHTML = liveUpcoming.length > 0
+                        ? liveUpcoming.map(p => createProgramCard(p)).join('')
+                        : '<p class="text-gray-500 p-4 text-center">No upcoming live programs found.</p>';
+
+                    loadingEl.classList.add('hidden');
+                    contentEl.classList.remove('hidden');
+                } catch (err) {
+                    console.error(err);
+                    errorMessageEl.textContent = err.message || 'An error occurred.';
+                    loadingEl.classList.add('hidden');
+                    errorEl.classList.remove('hidden');
+                }
+            }
+
+            async function loadHistory(dateString) {
+                historyContainer.innerHTML = '<div class="loader mx-auto"></div>';
+                try {
+                    if (allProgrammes.length === 0) {
+                        allProgrammes = await fetchProgrammes();
+                    }
+
+                    const now = new Date();
+                    const programmes = allProgrammes.filter(p => {
+                        const stop = new Date(p.stop_time);
+                        return getProgrammeDateString(p.start_time) === dateString && stop < now;
+                    });
+                    const livePrograms = programmes.filter(p => p.live === 1);
+
+                    if (livePrograms.length > 0) {
+                        historyContainer.innerHTML = livePrograms.map(p => createProgramCard(p)).join('');
+                    } else {
+                        historyContainer.innerHTML = '<p class="text-gray-500 p-4 text-center">No live programs found for this date.</p>';
+                    }
+                } catch (err) {
+                    console.error('Error loading history:', err);
+                    historyContainer.innerHTML = `<p class="text-red-500 p-4 text-center">Error loading history: ${err.message}</p>`;
+                }
+            }
+
+            function handleDateChange(e) {
+                const selectedDate = e.target.value;
+                if (selectedDate) {
+                    loadHistory(selectedDate);
+                }
+            }
+
+            function handleCarouselClick(event) {
+                const button = event.target.closest('.carousel-btn');
+                if (!button) return;
+
+                const programId = button.dataset.programId;
+                const direction = parseInt(button.dataset.direction);
+
+                const images = document.querySelectorAll(`.program-image-${programId}`);
+                const dots = document.querySelectorAll(`.carousel-dot-${programId}`);
+                if (images.length <= 1) return;
+
+                let currentIndex = -1;
+                images.forEach((img, index) => {
+                    if (img.classList.contains('opacity-100')) currentIndex = index;
+                });
+                if (currentIndex === -1) currentIndex = 0;
+
+                const newIndex = (currentIndex + direction + images.length) % images.length;
+
+                images[currentIndex].classList.remove('opacity-100', 'z-10');
+                images[currentIndex].classList.add('opacity-0', 'z-0');
+                images[newIndex].classList.remove('opacity-0', 'z-0');
+                images[newIndex].classList.add('opacity-100', 'z-10');
+
+                if (dots.length > 0) {
+                    dots[currentIndex].classList.remove('scale-125');
+                    dots[currentIndex].classList.add('bg-opacity-50');
+                    dots[newIndex].classList.remove('bg-opacity-50');
+                    dots[newIndex].classList.add('scale-125');
+                }
+            }
+
+            function populateTimezones() {
+                const timezones = { 'EST': 'America/New_York', 'PST': 'America/Los_Angeles', 'UTC': 'UTC', 'CET': 'CET' };
+                const selectedTimezone = getSelectedTimezone();
+
+                for (const [name, value] of Object.entries(timezones)) {
+                    const option = document.createElement('option');
+                    option.value = value;
+                    option.textContent = name;
+                    if (value === selectedTimezone) option.selected = true;
+                    timezoneSelectEl.appendChild(option);
+                }
+
+                if (!Object.values(timezones).includes(selectedTimezone)) {
+                    timezoneSelectEl.value = 'America/New_York';
+                    sessionStorage.setItem('timezone', 'America/New_York');
+                }
+            }
+
+            function initialize() {
+                populateTimezones();
+                timezoneSelectEl.addEventListener('change', (e) => {
+                    sessionStorage.setItem('timezone', e.target.value);
+                    loadData();
+                });
+
+                setupTabs();
+                historyDatePicker.addEventListener('change', handleDateChange);
+                document.body.addEventListener('click', handleCarouselClick);
+
+                loadData();
+            }
+
+            initialize();
+        });
+    </script>
+</body>
+
+</html>
