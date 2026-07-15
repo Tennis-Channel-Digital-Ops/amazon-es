@@ -1,335 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
  
-<tv date="2026-07-14" source-info-name="Radio Times" generator-info-name="XMLTV" generator-info-url="http://membled.com/pwork/apps/xmltv/" >
+<tv date="2026-07-15" source-info-name="Radio Times" generator-info-name="XMLTV" generator-info-url="http://membled.com/pwork/apps/xmltv/" >
     <channel id="3859">
       <display-name lang="en">Tennis Channel Spain LG ES</display-name>
       <url>www.Tennis Channel Spain LG ES.com</url></channel>
-   <programme start="2026-07-12T04:00:00.000+0000" stop="2026-07-12T07:00:00.000+0000" channel="3859" >
-      <title lang="en">Newport-ATP/WTA</title>
-      <sub-title lang="en">Semifinals</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      <desc lang="en">Encore coverage from Newport-ATP/WTA</desc>
-      
-      
-      <category lang="en">Sports</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <date>20240101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="xmltv_ns">2025.6.0</episode-num>
-      <episode-num system="onscreen">7</episode-num>
-      <episode-num system="assetID">newport260711tciencore</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <previously-shown/>
-   </programme>
-   <programme start="2026-07-12T07:00:00.000+0000" stop="2026-07-12T10:00:00.000+0000" channel="3859" >
-      <title lang="en">Newport-ATP/WTA</title>
-      <sub-title lang="en">Semifinals</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      <desc lang="en">Encore coverage from Newport-ATP/WTA</desc>
-      
-      
-      <category lang="en">Sports</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <date>20240101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="xmltv_ns">2025.6.0</episode-num>
-      <episode-num system="onscreen">7</episode-num>
-      <episode-num system="assetID">newport260711tciencore</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <previously-shown/>
-   </programme>
-   <programme start="2026-07-12T10:00:00.000+0000" stop="2026-07-12T14:00:00.000+0000" channel="3859" >
-      <title lang="en">Live Braunschweig ATP Challenger</title>
-      <sub-title lang="en">Singles &amp; Doubles Finals</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_BRAUNSCHWEIG_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_BRAUNSCHWEIG_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      <desc lang="en">Live coverage from the Braunschweig ATP Challenger</desc>
-      
-      
-      <category lang="en">Sports</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <live/>
-      <date>20240101</date>
-      <length units="minutes">240</length>
-      <length units="seconds">14400</length>
-      <episode-num system="assetID">braunschweigatpc260712tcilive</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <premiere/>
-   </programme>
-   <programme start="2026-07-12T14:00:00.000+0000" stop="2026-07-12T16:30:00.000+0000" channel="3859" >
-      <title lang="en">Newport-ATP/WTA</title>
-      <sub-title lang="en">Semifinals</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      <desc lang="en">Encore coverage from Newport-ATP/WTA</desc>
-      
-      
-      <category lang="en">Sports</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <date>20240101</date>
-      <length units="minutes">150</length>
-      <length units="seconds">9000</length>
-      <episode-num system="xmltv_ns">2025.6.0</episode-num>
-      <episode-num system="onscreen">7</episode-num>
-      <episode-num system="assetID">newport260711tciencore</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <previously-shown/>
-   </programme>
-   <programme start="2026-07-12T16:30:00.000+0000" stop="2026-07-12T20:30:00.000+0000" channel="3859" >
-      <title lang="en">Live Newport-ATP/WTA</title>
-      <sub-title lang="en">Singles Final</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      <desc lang="en">Live coverage from Newport-ATP/WTA</desc>
-      
-      
-      <category lang="en">Sports</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <live/>
-      <date>20260101</date>
-      <length units="minutes">240</length>
-      <length units="seconds">14400</length>
-      <episode-num system="assetID">newport260712tcilive</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <premiere/>
-   </programme>
-   <programme start="2026-07-12T20:30:00.000+0000" stop="2026-07-13T00:00:00.000+0000" channel="3859" >
-      <title lang="en">Live Pro Padel League 2026</title>
-      <sub-title lang="en">PPL New York Finals: Podium Day</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/PRO_PADEL_LEAGUE.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/PRO_PADEL_LEAGUE.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      <desc lang="en">Live coverage from the PPL New York Finals 2026</desc>
-      
-      
-      <category lang="en">Sports</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <live/>
-      <date>20260101</date>
-      <length units="minutes">210</length>
-      <length units="seconds">12600</length>
-      <episode-num system="assetID">pplnewyork260712live</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <premiere/>
-   </programme>
-   <programme start="2026-07-13T00:00:00.000+0000" stop="2026-07-13T04:00:00.000+0000" channel="3859" >
-      <title lang="en">Newport-ATP/WTA</title>
-      <sub-title lang="en">Singles Final</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_NEWPORT_2026.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      <desc lang="en">Encore coverage from Newport-ATP/WTA</desc>
-      
-      
-      <category lang="en">Sports</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <date>20240101</date>
-      <length units="minutes">240</length>
-      <length units="seconds">14400</length>
-      <episode-num system="xmltv_ns">2025.7.0</episode-num>
-      <episode-num system="onscreen">8</episode-num>
-      <episode-num system="assetID">newport260712tciencore</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <premiere/>
-   </programme>
    <programme start="2026-07-13T04:00:00.000+0000" stop="2026-07-13T06:30:00.000+0000" channel="3859" >
       <title lang="en">WTA Iasi 2025</title>
       <sub-title lang="en">Quarterfinal</sub-title>
@@ -866,7 +540,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -913,7 +587,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -960,7 +634,7 @@
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1006,7 +680,7 @@
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1052,7 +726,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1099,7 +773,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1146,7 +820,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1176,7 +850,7 @@
       </audio>
       <previously-shown/>
    </programme>
-   <programme start="2026-07-15T05:00:00.000+0000" stop="2026-07-15T10:30:00.000+0000" channel="3859" >
+   <programme start="2026-07-15T05:00:00.000+0000" stop="2026-07-15T10:00:00.000+0000" channel="3859" >
       <title lang="en">Iasi Open 2026</title>
       <sub-title lang="en">Early Rounds</sub-title>
       
@@ -1193,13 +867,13 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
       <date>20260101</date>
-      <length units="minutes">330</length>
-      <length units="seconds">19800</length>
+      <length units="minutes">300</length>
+      <length units="seconds">18000</length>
       <episode-num system="xmltv_ns">2025.2.0</episode-num>
       <episode-num system="onscreen">3</episode-num>
       <episode-num system="assetID">iasiwta260714tciencore</episode-num>
@@ -1223,7 +897,7 @@
       </audio>
       <previously-shown/>
    </programme>
-   <programme start="2026-07-15T10:30:00.000+0000" stop="2026-07-15T18:30:00.000+0000" channel="3859" >
+   <programme start="2026-07-15T10:00:00.000+0000" stop="2026-07-15T18:30:00.000+0000" channel="3859" >
       <title lang="en">Live Iasi Open 2026</title>
       <sub-title lang="en">Early Rounds</sub-title>
       
@@ -1234,20 +908,20 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
       <live/>
       <date>20260101</date>
-      <length units="minutes">480</length>
-      <length units="seconds">28800</length>
+      <length units="minutes">510</length>
+      <length units="seconds">30600</length>
       <episode-num system="assetID">iasiwta260715tcilive</episode-num>
       <credits>
          <director></director>
@@ -1280,13 +954,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1327,13 +1001,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1374,13 +1048,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1427,7 +1101,7 @@
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1467,13 +1141,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1520,7 +1194,7 @@
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1566,7 +1240,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1613,7 +1287,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1660,7 +1334,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1707,7 +1381,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1754,7 +1428,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1801,7 +1475,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1848,7 +1522,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1895,7 +1569,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1936,13 +1610,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -1988,7 +1662,7 @@
       <desc lang="en">Stefanos Tsitsipas explores Iceland with Paula Badosa</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2035,7 +1709,7 @@
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2081,7 +1755,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2122,13 +1796,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2175,7 +1849,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2222,7 +1896,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2263,13 +1937,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2316,7 +1990,7 @@
       <desc lang="en">Live coverage from Vitoria 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2362,7 +2036,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2403,13 +2077,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2451,7 +2125,7 @@
       <desc lang="en">Live coverage from the ATP Challenger Pozoblanco 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2497,7 +2171,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2544,7 +2218,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2591,7 +2265,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2638,7 +2312,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2679,13 +2353,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2732,7 +2406,7 @@
       <desc lang="en">Live coverage from Vitoria 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2778,7 +2452,7 @@
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2825,7 +2499,7 @@
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2865,13 +2539,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_RFET_GENERAL_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Vitoria 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2922,7 +2596,7 @@
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -2965,7 +2639,7 @@
       <desc lang="en">Live coverage from the ATP Challenger Pozoblanco 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3005,13 +2679,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3054,7 +2728,7 @@
       <desc lang="en">Encore coverage from the ATP Challenger Pozoblanco 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3095,13 +2769,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3142,13 +2816,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3189,13 +2863,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3242,7 +2916,7 @@
       <desc lang="en">Quarterfinal Kaja Juvan (SLO) vs. Leyre Romero Gormaz (ESP)</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3289,7 +2963,7 @@
       <desc lang="en">Final Lois Boisson (FRA) vs. Anna Bondar (HUN)</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3336,7 +3010,7 @@
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3382,7 +3056,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3429,7 +3103,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3476,7 +3150,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3523,7 +3197,7 @@
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3569,7 +3243,7 @@
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3615,7 +3289,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3662,7 +3336,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3709,7 +3383,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3756,7 +3430,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3803,7 +3477,7 @@
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3849,7 +3523,7 @@
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3895,7 +3569,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3936,13 +3610,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -3989,7 +3663,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4036,7 +3710,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4083,7 +3757,7 @@
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4129,7 +3803,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4176,7 +3850,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4223,7 +3897,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4270,7 +3944,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4317,7 +3991,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4364,7 +4038,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4411,7 +4085,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4458,7 +4132,7 @@
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4504,7 +4178,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4551,7 +4225,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4598,7 +4272,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4645,7 +4319,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4692,7 +4366,7 @@
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4738,7 +4412,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4785,7 +4459,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4832,7 +4506,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4879,7 +4553,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4926,7 +4600,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -4967,13 +4641,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5019,7 +4693,7 @@
       <desc lang="en">Encore coverage from Prague 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5066,7 +4740,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5113,7 +4787,7 @@
       <desc lang="en">Encore coverage from Prague 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5160,7 +4834,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5207,7 +4881,7 @@
       <desc lang="en">Encore coverage from Prague 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5254,7 +4928,7 @@
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5301,7 +4975,7 @@
       <desc lang="en">Encore coverage from Prague 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5348,7 +5022,7 @@
       <desc lang="en">Quarterfinal Emma Raducanu (GBR) vs. Maria Sakkari (GRE)</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5395,7 +5069,7 @@
       <desc lang="en">Quarterfinal Leylah Fernandez (CAN) vs. Taylor Townsend (USA)</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5442,7 +5116,7 @@
       <desc lang="en">Semifinals Leyla Fernandez (CAN) vs. Elena Rybakina (KAZ)</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5489,7 +5163,7 @@
       <desc lang="en">Final Leylah Fernandez (CAN) vs. Anna Kalinskaya (RUS)</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5536,7 +5210,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5582,7 +5256,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5623,13 +5297,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5675,7 +5349,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5722,7 +5396,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5769,7 +5443,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5816,7 +5490,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5857,13 +5531,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5913,7 +5587,7 @@
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -5960,7 +5634,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6006,7 +5680,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6053,7 +5727,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6100,7 +5774,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6147,7 +5821,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6194,7 +5868,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6240,7 +5914,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6287,7 +5961,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6333,7 +6007,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6380,7 +6054,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6427,7 +6101,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6474,7 +6148,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6521,7 +6195,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6568,7 +6242,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6615,7 +6289,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6661,7 +6335,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6708,7 +6382,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6754,7 +6428,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6801,7 +6475,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6848,7 +6522,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6895,7 +6569,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6942,7 +6616,7 @@
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -6989,7 +6663,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7036,7 +6710,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7083,7 +6757,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7123,13 +6797,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7176,7 +6850,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7222,7 +6896,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7269,7 +6943,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7316,7 +6990,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7363,7 +7037,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7410,7 +7084,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7457,7 +7131,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7504,7 +7178,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7550,7 +7224,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7597,7 +7271,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7644,7 +7318,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7691,7 +7365,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7738,7 +7412,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7785,7 +7459,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7836,7 +7510,7 @@
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7883,7 +7557,7 @@
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7929,7 +7603,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -7976,7 +7650,7 @@
       <desc lang="en">Stefanos Tsitsipas explores Iceland with Paula Badosa</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -8023,7 +7697,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -8070,7 +7744,7 @@
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
-      <category lang="en">Sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -8111,13 +7785,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
@@ -8168,7 +7842,7 @@
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
-      <category lang="en">sports</category>
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
