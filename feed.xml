@@ -296,9 +296,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
@@ -857,9 +857,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DEAR_FANS_ICELAND.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Stefanos Tsitsipas explores Iceland with Paula Badosa</desc>
       
       
@@ -1185,9 +1185,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_RFET_GENERAL_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Vitoria 2026</desc>
       
       
@@ -1278,9 +1278,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Iasi 2026</desc>
       
       
@@ -1601,9 +1601,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_RFET_GENERAL_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Vitoria 2026</desc>
       
       
@@ -1781,9 +1781,9 @@
       <sub-title lang="en">VIP Tennis Lounge featuring some of the greatest tennis players in the world</sub-title>
       
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
@@ -1829,7 +1829,7 @@
    </programme>
    <programme start="2026-07-19T19:00:00.000+0000" stop="2026-07-19T21:00:00.000+0000" channel="3859" >
       <title lang="en">Live Pozoblanco ATP Challenger 2026</title>
-      <sub-title lang="en">Semifinals</sub-title>
+      <sub-title lang="en">Singles Final</sub-title>
       
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
@@ -1848,7 +1848,7 @@
       <date>20260101</date>
       <length units="minutes">120</length>
       <length units="seconds">7200</length>
-      <episode-num system="assetID">pozoblancoatpcrfet260718live</episode-num>
+      <episode-num system="assetID">pozoblancoatpcrfet260719live</episode-num>
       <credits>
          <director></director>
          <actor></actor>
@@ -1867,7 +1867,7 @@
          <present>yes</present>
          <stereo>stereo</stereo>
       </audio>
-      <previously-shown/>
+      <premiere/>
    </programme>
    <programme start="2026-07-19T21:00:00.000+0000" stop="2026-07-19T23:00:00.000+0000" channel="3859" >
       <title lang="en">Iasi Open 2026</title>
@@ -1880,9 +1880,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
@@ -1918,7 +1918,7 @@
    </programme>
    <programme start="2026-07-19T23:00:00.000+0000" stop="2026-07-20T01:00:00.000+0000" channel="3859" >
       <title lang="en">Pozoblanco ATP Challenger 2026</title>
-      <sub-title lang="en">Semifinals</sub-title>
+      <sub-title lang="en">Singles Final</sub-title>
       
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
@@ -1936,9 +1936,9 @@
       <date>20260101</date>
       <length units="minutes">120</length>
       <length units="seconds">7200</length>
-      <episode-num system="xmltv_ns">2025.0.0</episode-num>
-      <episode-num system="onscreen">1</episode-num>
-      <episode-num system="assetID">pozoblancoatpcrfet260718encore</episode-num>
+      <episode-num system="xmltv_ns">2025.1.0</episode-num>
+      <episode-num system="onscreen">2</episode-num>
+      <episode-num system="assetID">pozoblancoatpcrfet260719encore</episode-num>
       <credits>
          <director></director>
          <actor></actor>
@@ -1970,9 +1970,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
@@ -2017,9 +2017,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
@@ -2064,9 +2064,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_IASI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Iasi 2026</desc>
       
       
@@ -2205,9 +2205,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
@@ -2251,9 +2251,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -2298,9 +2298,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -2345,9 +2345,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -2672,9 +2672,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
@@ -2718,9 +2718,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
@@ -2764,9 +2764,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -2858,9 +2858,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -2905,9 +2905,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -2998,9 +2998,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/BIG_T_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
@@ -3186,9 +3186,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/BIG_T_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
@@ -3233,9 +3233,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/BIG_T_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
@@ -3280,9 +3280,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/BIG_T_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
@@ -3327,9 +3327,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Hamburg 2026</desc>
       
       
@@ -3607,9 +3607,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -3654,9 +3654,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -3701,9 +3701,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -3748,9 +3748,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -3795,9 +3795,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -3935,9 +3935,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -4029,9 +4029,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -4123,9 +4123,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_HAMBURG_WTA.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Hamburg 2026</desc>
       
       
@@ -4264,9 +4264,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Quarterfinal Leylah Fernandez (CAN) vs. Taylor Townsend (USA)</desc>
       
       
@@ -4451,9 +4451,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -4544,9 +4544,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -4591,9 +4591,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -4685,9 +4685,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -4772,9 +4772,9 @@
       <sub-title lang="en">VIP Tennis Lounge featuring some of the greatest tennis players in the world</sub-title>
       
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
@@ -4969,9 +4969,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -5249,9 +5249,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -5296,9 +5296,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -5390,9 +5390,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -5577,9 +5577,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -6091,9 +6091,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -6138,9 +6138,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -6232,9 +6232,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -6326,9 +6326,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -6695,9 +6695,9 @@
       <sub-title lang="en">VIP Tennis Lounge featuring some of the greatest tennis players in the world</sub-title>
       
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
@@ -6752,9 +6752,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_MUBADALA_CITI_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the Mubadala Citi Open 2026</desc>
       
       
@@ -6845,9 +6845,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DEAR_FANS_ICELAND.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Stefanos Tsitsipas explores Iceland with Paula Badosa</desc>
       
       
@@ -7027,9 +7027,9 @@
       <sub-title lang="en">VIP Tennis Lounge featuring some of the greatest tennis players in the world</sub-title>
       
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
