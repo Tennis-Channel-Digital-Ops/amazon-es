@@ -1,289 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
  
-<tv date="2026-08-06" source-info-name="Radio Times" generator-info-name="XMLTV" generator-info-url="http://membled.com/pwork/apps/xmltv/" >
+<tv date="2026-08-07" source-info-name="Radio Times" generator-info-name="XMLTV" generator-info-url="http://membled.com/pwork/apps/xmltv/" >
     <channel id="3859">
       <display-name lang="en">Tennis Channel Spain LG ES</display-name>
       <url>www.Tennis Channel Spain LG ES.com</url></channel>
-   <programme start="2026-08-04T04:00:00.000+0000" stop="2026-08-04T09:00:00.000+0000" channel="3859" >
-      <title lang="en">Toronto 2026</title>
-      <sub-title lang="en">First Round</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
-      
-      
-      <category lang="en">Tennis</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">300</length>
-      <length units="seconds">18000</length>
-      <episode-num system="xmltv_ns">2025.2.0</episode-num>
-      <episode-num system="onscreen">3</episode-num>
-      <episode-num system="assetID">torontowta260803tciencore</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <previously-shown/>
-   </programme>
-   <programme start="2026-08-04T09:00:00.000+0000" stop="2026-08-04T13:00:00.000+0000" channel="3859" >
-      <title lang="en">Toronto 2026</title>
-      <sub-title lang="en">First Round</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
-      
-      
-      <category lang="en">Tennis</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">240</length>
-      <length units="seconds">14400</length>
-      <episode-num system="xmltv_ns">2025.3.0</episode-num>
-      <episode-num system="onscreen">4</episode-num>
-      <episode-num system="assetID">torontowta260804tciencore</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <premiere/>
-   </programme>
-   <programme start="2026-08-04T13:00:00.000+0000" stop="2026-08-04T15:00:00.000+0000" channel="3859" >
-      <title lang="en">Toronto 2026</title>
-      <sub-title lang="en">First Round</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
-      
-      
-      <category lang="en">Tennis</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">120</length>
-      <length units="seconds">7200</length>
-      <episode-num system="xmltv_ns">2025.2.0</episode-num>
-      <episode-num system="onscreen">3</episode-num>
-      <episode-num system="assetID">torontowta260803tciencore</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <previously-shown/>
-   </programme>
-   <programme start="2026-08-04T15:00:00.000+0000" stop="2026-08-04T23:00:00.000+0000" channel="3859" >
-      <title lang="en">Live Toronto 2026</title>
-      <sub-title lang="en">Second Round</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      <desc lang="en">Live coverage from the National Bank Open 2026</desc>
-      
-      
-      <category lang="en">Tennis</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <live/>
-      <date>20260101</date>
-      <length units="minutes">480</length>
-      <length units="seconds">28800</length>
-      <episode-num system="assetID">torontowta260804tcilive2</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <premiere/>
-   </programme>
-   <programme start="2026-08-04T23:00:00.000+0000" stop="2026-08-05T03:00:00.000+0000" channel="3859" >
-      <title lang="en">Live Toronto 2026</title>
-      <sub-title lang="en">Second Round</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      <desc lang="en">Live coverage from the National Bank Open 2026</desc>
-      
-      
-      <category lang="en">Tennis</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <live/>
-      <date>20260101</date>
-      <length units="minutes">240</length>
-      <length units="seconds">14400</length>
-      <episode-num system="assetID">torontowta260805tcilive</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <premiere/>
-   </programme>
-   <programme start="2026-08-05T03:00:00.000+0000" stop="2026-08-05T04:00:00.000+0000" channel="3859" >
-      <title lang="en">Toronto 2026</title>
-      <sub-title lang="en">Second Round</sub-title>
-      
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
-      
-      
-      <category lang="en">Tennis</category>
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">60</length>
-      <length units="seconds">3600</length>
-      <episode-num system="xmltv_ns">2025.4.0</episode-num>
-      <episode-num system="onscreen">5</episode-num>
-      <episode-num system="assetID">torontowta260804tciencore2</episode-num>
-      <credits>
-         <director></director>
-         <actor></actor>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="ES">
-         <value>TV-G</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <premiere/>
-   </programme>
    <programme start="2026-08-05T04:00:00.000+0000" stop="2026-08-05T11:00:00.000+0000" channel="3859" >
       <title lang="en">Toronto 2026</title>
       <sub-title lang="en">Second Round</sub-title>
@@ -528,9 +248,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -575,9 +295,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -622,9 +342,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the National Bank Open 2026</desc>
       
       
@@ -668,9 +388,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
@@ -715,9 +435,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the National Bank Open 2026</desc>
       
       
@@ -761,9 +481,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -808,9 +528,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -902,9 +622,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
@@ -995,13 +715,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
@@ -1046,9 +766,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the National Bank Open 2026</desc>
       
       
@@ -1092,9 +812,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -1139,9 +859,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -1233,9 +953,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -1280,9 +1000,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the National Bank Open 2026</desc>
       
       
@@ -1326,9 +1046,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -1513,9 +1233,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -1607,9 +1327,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -1654,9 +1374,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the National Bank Open 2026</desc>
       
       
@@ -1700,9 +1420,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2075,9 +1795,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the National Bank Open 2026</desc>
       
       
@@ -2121,9 +1841,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2168,9 +1888,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2215,9 +1935,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2262,9 +1982,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2309,9 +2029,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2356,9 +2076,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2403,9 +2123,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the National Bank Open 2026</desc>
       
       
@@ -2449,9 +2169,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2496,9 +2216,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2543,9 +2263,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2590,9 +2310,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2637,9 +2357,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2684,9 +2404,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2731,9 +2451,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from the National Bank Open 2026</desc>
       
       
@@ -2777,9 +2497,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2824,9 +2544,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2871,9 +2591,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2918,9 +2638,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -2965,9 +2685,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -3103,9 +2823,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -3150,9 +2870,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -3197,9 +2917,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CANADA_OPEN.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from the National Bank Open 2026</desc>
       
       
@@ -3244,9 +2964,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -3291,9 +3011,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -3337,9 +3057,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -3383,9 +3103,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -3430,9 +3150,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -3524,9 +3244,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -3570,9 +3290,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -3616,9 +3336,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -3663,9 +3383,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -3757,9 +3477,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -3943,9 +3663,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -4036,9 +3756,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -4083,9 +3803,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -4129,9 +3849,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -4176,9 +3896,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -4270,9 +3990,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -4409,9 +4129,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -4456,9 +4176,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -4783,9 +4503,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -4877,9 +4597,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -4923,9 +4643,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -4970,9 +4690,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -5016,9 +4736,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5063,9 +4783,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5110,9 +4830,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5157,9 +4877,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5204,9 +4924,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5251,9 +4971,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5298,9 +5018,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5345,9 +5065,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5392,9 +5112,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5439,9 +5159,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -5485,9 +5205,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5532,9 +5252,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5579,9 +5299,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5626,9 +5346,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -5672,9 +5392,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5719,9 +5439,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5766,9 +5486,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5813,9 +5533,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5860,9 +5580,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5907,9 +5627,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -5954,9 +5674,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6001,9 +5721,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6048,13 +5768,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
@@ -6099,9 +5819,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Live coverage from Cincinnati 2026</desc>
       
       
@@ -6145,9 +5865,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6238,9 +5958,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6285,9 +6005,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6332,9 +6052,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6379,9 +6099,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6426,9 +6146,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6473,9 +6193,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6520,9 +6240,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6567,9 +6287,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6614,9 +6334,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6661,9 +6381,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
@@ -6754,13 +6474,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
@@ -6889,9 +6609,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -6979,9 +6699,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -7069,9 +6789,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CINCINATTI.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Encore coverage from Cincinnati 2026</desc>
       
       
@@ -7201,13 +6921,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
@@ -7550,9 +7270,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
@@ -7895,13 +7615,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
@@ -8202,9 +7922,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/BIG_T_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
@@ -8291,9 +8011,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
@@ -8508,9 +8228,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/BIG_T_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
@@ -8555,9 +8275,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/BIG_T_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
@@ -8602,9 +8322,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/BIG_T_2026.jpg" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Insider tennis talk with Brad Gilbert, Coco Vandeweghe, Andrea Petkovic and Mark Petchey</desc>
       
       
@@ -9035,13 +8755,13 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_VIP_FAST_FRANCE.jpg" width="1920" height="1080"  />
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">2-time Grand Slam champion, Garbine Muguruza, hosts the world’s top players and legends in her VIP Tennis Lounge</desc>
       
       
@@ -9171,9 +8891,9 @@
       
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_DTT_KONTA.jpg" width="1920" height="1080"  />
       
-      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
-      
       <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
       <desc lang="en">Tennis icons engage in some afternoon tea and grass court season banter with host Johanna Konta.</desc>
       
       
@@ -9207,20 +8927,42 @@
       </audio>
       <previously-shown/>
    </programme>
-   <programme start="2026-08-30T04:00:00.000+0000" stop="2026-08-30T07:00:00.000+0000" channel="3859" >
-      <title lang="en">To Be Announced</title>
+   <programme start="2026-08-30T04:00:00.000+0000" stop="2026-08-30T06:00:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Semifinals</sub-title>
       
-      <desc lang="en">Program information is not yet available</desc>
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <desc lang="en">Semifinal Linda Fruhvirtova (CZE) vs. Jessika Ponchet (FRA)</desc>
       
       
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="assetID">TCIES_TBA</episode-num>
+      <date>20250101</date>
+      <length units="minutes">120</length>
+      <length units="seconds">7200</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmsffruhvirtovaponchet</episode-num>
       <credits>
+         <director></director>
+         <actor></actor>
       </credits>
       <video>
          <present>yes</present>
@@ -9228,39 +8970,8 @@
          <quality>1920x1080</quality>
       </video>
       
-      <rating system="US">
-         <value>NR</value>
-      </rating>   
-      
-      <audio>
-         <present>yes</present>
-         <stereo>stereo</stereo>
-      </audio>
-      <premiere/>
-   </programme>
-   <programme start="2026-08-30T07:00:00.000+0000" stop="2026-08-30T10:00:00.000+0000" channel="3859" >
-      <title lang="en">To Be Announced</title>
-      
-      <desc lang="en">Program information is not yet available</desc>
-      
-      
-      
-      <language>English</language>
-      <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="assetID">TCIES_TBA</episode-num>
-      <credits>
-      </credits>
-      <video>
-         <present>yes</present>
-         <colour>yes</colour>
-         <quality>1920x1080</quality>
-      </video>
-      
-      <rating system="US">
-         <value>NR</value>
+      <rating system="ES">
+         <value>TV-G</value>
       </rating>   
       
       <audio>
@@ -9269,20 +8980,42 @@
       </audio>
       <previously-shown/>
    </programme>
-   <programme start="2026-08-30T10:00:00.000+0000" stop="2026-08-30T13:00:00.000+0000" channel="3859" >
-      <title lang="en">To Be Announced</title>
+   <programme start="2026-08-30T06:00:00.000+0000" stop="2026-08-30T07:30:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Final</sub-title>
       
-      <desc lang="en">Program information is not yet available</desc>
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <desc lang="en">Final Greet Minnen (BEL) vs. Linda Fruhvirtova (CZE)</desc>
       
       
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="assetID">TCIES_TBA</episode-num>
+      <date>20250101</date>
+      <length units="minutes">90</length>
+      <length units="seconds">5400</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmfminnenfruhvirtova</episode-num>
       <credits>
+         <director></director>
+         <actor></actor>
       </credits>
       <video>
          <present>yes</present>
@@ -9290,8 +9023,8 @@
          <quality>1920x1080</quality>
       </video>
       
-      <rating system="US">
-         <value>NR</value>
+      <rating system="ES">
+         <value>TV-G</value>
       </rating>   
       
       <audio>
@@ -9300,20 +9033,42 @@
       </audio>
       <previously-shown/>
    </programme>
-   <programme start="2026-08-30T13:00:00.000+0000" stop="2026-08-30T16:00:00.000+0000" channel="3859" >
-      <title lang="en">To Be Announced</title>
+   <programme start="2026-08-30T07:30:00.000+0000" stop="2026-08-30T09:30:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Quarterfinals</sub-title>
       
-      <desc lang="en">Program information is not yet available</desc>
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      <desc lang="en">Quarterfinal Mingge Xu (GBR) vs. Jessika Ponchet (FRA)</desc>
       
       
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="assetID">TCIES_TBA</episode-num>
+      <date>20250101</date>
+      <length units="minutes">120</length>
+      <length units="seconds">7200</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmqfponchetxu</episode-num>
       <credits>
+         <director></director>
+         <actor></actor>
       </credits>
       <video>
          <present>yes</present>
@@ -9321,8 +9076,8 @@
          <quality>1920x1080</quality>
       </video>
       
-      <rating system="US">
-         <value>NR</value>
+      <rating system="ES">
+         <value>TV-G</value>
       </rating>   
       
       <audio>
@@ -9331,20 +9086,42 @@
       </audio>
       <previously-shown/>
    </programme>
-   <programme start="2026-08-30T16:00:00.000+0000" stop="2026-08-30T19:00:00.000+0000" channel="3859" >
-      <title lang="en">To Be Announced</title>
+   <programme start="2026-08-30T09:30:00.000+0000" stop="2026-08-30T11:30:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Semifinals</sub-title>
       
-      <desc lang="en">Program information is not yet available</desc>
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <desc lang="en">Semifinal Linda Fruhvirtova (CZE) vs. Jessika Ponchet (FRA)</desc>
       
       
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="assetID">TCIES_TBA</episode-num>
+      <date>20250101</date>
+      <length units="minutes">120</length>
+      <length units="seconds">7200</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmsffruhvirtovaponchet</episode-num>
       <credits>
+         <director></director>
+         <actor></actor>
       </credits>
       <video>
          <present>yes</present>
@@ -9352,8 +9129,8 @@
          <quality>1920x1080</quality>
       </video>
       
-      <rating system="US">
-         <value>NR</value>
+      <rating system="ES">
+         <value>TV-G</value>
       </rating>   
       
       <audio>
@@ -9362,20 +9139,42 @@
       </audio>
       <previously-shown/>
    </programme>
-   <programme start="2026-08-30T19:00:00.000+0000" stop="2026-08-30T22:00:00.000+0000" channel="3859" >
-      <title lang="en">To Be Announced</title>
+   <programme start="2026-08-30T11:30:00.000+0000" stop="2026-08-30T13:00:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Final</sub-title>
       
-      <desc lang="en">Program information is not yet available</desc>
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <desc lang="en">Final Greet Minnen (BEL) vs. Linda Fruhvirtova (CZE)</desc>
       
       
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="assetID">TCIES_TBA</episode-num>
+      <date>20250101</date>
+      <length units="minutes">90</length>
+      <length units="seconds">5400</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmfminnenfruhvirtova</episode-num>
       <credits>
+         <director></director>
+         <actor></actor>
       </credits>
       <video>
          <present>yes</present>
@@ -9383,8 +9182,8 @@
          <quality>1920x1080</quality>
       </video>
       
-      <rating system="US">
-         <value>NR</value>
+      <rating system="ES">
+         <value>TV-G</value>
       </rating>   
       
       <audio>
@@ -9393,20 +9192,42 @@
       </audio>
       <previously-shown/>
    </programme>
-   <programme start="2026-08-30T22:00:00.000+0000" stop="2026-08-31T01:00:00.000+0000" channel="3859" >
-      <title lang="en">To Be Announced</title>
+   <programme start="2026-08-30T13:00:00.000+0000" stop="2026-08-30T15:00:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Quarterfinals</sub-title>
       
-      <desc lang="en">Program information is not yet available</desc>
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      <desc lang="en">Quarterfinal Mingge Xu (GBR) vs. Jessika Ponchet (FRA)</desc>
       
       
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="assetID">TCIES_TBA</episode-num>
+      <date>20250101</date>
+      <length units="minutes">120</length>
+      <length units="seconds">7200</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmqfponchetxu</episode-num>
       <credits>
+         <director></director>
+         <actor></actor>
       </credits>
       <video>
          <present>yes</present>
@@ -9414,8 +9235,8 @@
          <quality>1920x1080</quality>
       </video>
       
-      <rating system="US">
-         <value>NR</value>
+      <rating system="ES">
+         <value>TV-G</value>
       </rating>   
       
       <audio>
@@ -9424,20 +9245,42 @@
       </audio>
       <previously-shown/>
    </programme>
-   <programme start="2026-08-31T01:00:00.000+0000" stop="2026-08-31T04:00:00.000+0000" channel="3859" >
-      <title lang="en">To Be Announced</title>
+   <programme start="2026-08-30T15:00:00.000+0000" stop="2026-08-30T17:00:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Semifinals</sub-title>
       
-      <desc lang="en">Program information is not yet available</desc>
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <desc lang="en">Semifinal Linda Fruhvirtova (CZE) vs. Jessika Ponchet (FRA)</desc>
       
       
+      <category lang="en">Tennis</category>
       
       <language>English</language>
       <orig-language>English</orig-language>
-      <date>20260101</date>
-      <length units="minutes">180</length>
-      <length units="seconds">10800</length>
-      <episode-num system="assetID">TCIES_TBA</episode-num>
+      <date>20250101</date>
+      <length units="minutes">120</length>
+      <length units="seconds">7200</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmsffruhvirtovaponchet</episode-num>
       <credits>
+         <director></director>
+         <actor></actor>
       </credits>
       <video>
          <present>yes</present>
@@ -9445,8 +9288,326 @@
          <quality>1920x1080</quality>
       </video>
       
-      <rating system="US">
-         <value>NR</value>
+      <rating system="ES">
+         <value>TV-G</value>
+      </rating>   
+      
+      <audio>
+         <present>yes</present>
+         <stereo>stereo</stereo>
+      </audio>
+      <previously-shown/>
+   </programme>
+   <programme start="2026-08-30T17:00:00.000+0000" stop="2026-08-30T18:30:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Final</sub-title>
+      
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <desc lang="en">Final Greet Minnen (BEL) vs. Linda Fruhvirtova (CZE)</desc>
+      
+      
+      <category lang="en">Tennis</category>
+      
+      <language>English</language>
+      <orig-language>English</orig-language>
+      <date>20250101</date>
+      <length units="minutes">90</length>
+      <length units="seconds">5400</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmfminnenfruhvirtova</episode-num>
+      <credits>
+         <director></director>
+         <actor></actor>
+      </credits>
+      <video>
+         <present>yes</present>
+         <colour>yes</colour>
+         <quality>1920x1080</quality>
+      </video>
+      
+      <rating system="ES">
+         <value>TV-G</value>
+      </rating>   
+      
+      <audio>
+         <present>yes</present>
+         <stereo>stereo</stereo>
+      </audio>
+      <previously-shown/>
+   </programme>
+   <programme start="2026-08-30T18:30:00.000+0000" stop="2026-08-30T20:30:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Quarterfinals</sub-title>
+      
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      <desc lang="en">Quarterfinal Mingge Xu (GBR) vs. Jessika Ponchet (FRA)</desc>
+      
+      
+      <category lang="en">Tennis</category>
+      
+      <language>English</language>
+      <orig-language>English</orig-language>
+      <date>20250101</date>
+      <length units="minutes">120</length>
+      <length units="seconds">7200</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmqfponchetxu</episode-num>
+      <credits>
+         <director></director>
+         <actor></actor>
+      </credits>
+      <video>
+         <present>yes</present>
+         <colour>yes</colour>
+         <quality>1920x1080</quality>
+      </video>
+      
+      <rating system="ES">
+         <value>TV-G</value>
+      </rating>   
+      
+      <audio>
+         <present>yes</present>
+         <stereo>stereo</stereo>
+      </audio>
+      <previously-shown/>
+   </programme>
+   <programme start="2026-08-30T20:30:00.000+0000" stop="2026-08-30T22:30:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Semifinals</sub-title>
+      
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <desc lang="en">Semifinal Linda Fruhvirtova (CZE) vs. Jessika Ponchet (FRA)</desc>
+      
+      
+      <category lang="en">Tennis</category>
+      
+      <language>English</language>
+      <orig-language>English</orig-language>
+      <date>20250101</date>
+      <length units="minutes">120</length>
+      <length units="seconds">7200</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmsffruhvirtovaponchet</episode-num>
+      <credits>
+         <director></director>
+         <actor></actor>
+      </credits>
+      <video>
+         <present>yes</present>
+         <colour>yes</colour>
+         <quality>1920x1080</quality>
+      </video>
+      
+      <rating system="ES">
+         <value>TV-G</value>
+      </rating>   
+      
+      <audio>
+         <present>yes</present>
+         <stereo>stereo</stereo>
+      </audio>
+      <previously-shown/>
+   </programme>
+   <programme start="2026-08-30T22:30:00.000+0000" stop="2026-08-31T00:00:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Final</sub-title>
+      
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <desc lang="en">Final Greet Minnen (BEL) vs. Linda Fruhvirtova (CZE)</desc>
+      
+      
+      <category lang="en">Tennis</category>
+      
+      <language>English</language>
+      <orig-language>English</orig-language>
+      <date>20250101</date>
+      <length units="minutes">90</length>
+      <length units="seconds">5400</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmfminnenfruhvirtova</episode-num>
+      <credits>
+         <director></director>
+         <actor></actor>
+      </credits>
+      <video>
+         <present>yes</present>
+         <colour>yes</colour>
+         <quality>1920x1080</quality>
+      </video>
+      
+      <rating system="ES">
+         <value>TV-G</value>
+      </rating>   
+      
+      <audio>
+         <present>yes</present>
+         <stereo>stereo</stereo>
+      </audio>
+      <previously-shown/>
+   </programme>
+   <programme start="2026-08-31T00:00:00.000+0000" stop="2026-08-31T02:00:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Quarterfinals</sub-title>
+      
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      <desc lang="en">Quarterfinal Mingge Xu (GBR) vs. Jessika Ponchet (FRA)</desc>
+      
+      
+      <category lang="en">Tennis</category>
+      
+      <language>English</language>
+      <orig-language>English</orig-language>
+      <date>20250101</date>
+      <length units="minutes">120</length>
+      <length units="seconds">7200</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmqfponchetxu</episode-num>
+      <credits>
+         <director></director>
+         <actor></actor>
+      </credits>
+      <video>
+         <present>yes</present>
+         <colour>yes</colour>
+         <quality>1920x1080</quality>
+      </video>
+      
+      <rating system="ES">
+         <value>TV-G</value>
+      </rating>   
+      
+      <audio>
+         <present>yes</present>
+         <stereo>stereo</stereo>
+      </audio>
+      <previously-shown/>
+   </programme>
+   <programme start="2026-08-31T02:00:00.000+0000" stop="2026-08-31T04:00:00.000+0000" channel="3859" >
+      <title lang="en">WTA Challenger Birmingham 2025</title>
+      <sub-title lang="en">Semifinals</sub-title>
+      
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_EVENT.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16_9_CHALLENGER_FALLBACK.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRC.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRANCE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE.png" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/16x9_CHALLENGER_TOUR_PROGRAM_IMAGE_FRA.jpg" width="3840" height="2160"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER-1.jpg" width="1920" height="2880"  />
+      
+      <icon src="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/TC_POSTER.jpg" width="1920" height="2880"  />
+      <desc lang="en">Semifinal Linda Fruhvirtova (CZE) vs. Jessika Ponchet (FRA)</desc>
+      
+      
+      <category lang="en">Tennis</category>
+      
+      <language>English</language>
+      <orig-language>English</orig-language>
+      <date>20250101</date>
+      <length units="minutes">120</length>
+      <length units="seconds">7200</length>
+      <episode-num system="xmltv_ns">0.0.0</episode-num>
+      <episode-num system="onscreen">1</episode-num>
+      <episode-num system="assetID">le2025wtabrmsffruhvirtovaponchet</episode-num>
+      <credits>
+         <director></director>
+         <actor></actor>
+      </credits>
+      <video>
+         <present>yes</present>
+         <colour>yes</colour>
+         <quality>1920x1080</quality>
+      </video>
+      
+      <rating system="ES">
+         <value>TV-G</value>
       </rating>   
       
       <audio>
@@ -9484,7 +9645,7 @@
          <present>yes</present>
          <stereo>stereo</stereo>
       </audio>
-      <previously-shown/>
+      <premiere/>
    </programme>
    <programme start="2026-08-31T07:00:00.000+0000" stop="2026-08-31T10:00:00.000+0000" channel="3859" >
       <title lang="en">To Be Announced</title>
